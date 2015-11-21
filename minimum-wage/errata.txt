@@ -1,0 +1,2 @@
+Considers Skagway-Hoonah-Angoon as one, uses Skagway data (most expensive)
+Considers Wrangell and Petersburg as one, uses Petersburg data
